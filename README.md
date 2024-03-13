@@ -1,6 +1,6 @@
 # cgn-java-24-1-oop
 
-##Solution for these exercises:
+## Solution for these exercises:
 
 
 ![class diagram](./classDiagram.png "class diagram")
