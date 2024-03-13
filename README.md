@@ -1,8 +1,13 @@
 # cgn-java-24-1-oop
 
-Solution for these exercises:
+##Solution for these exercises:
 
-## Coding: Classes and Objects
+
+![class diagram](./classDiagram.png "class diagram")
+
+## Exercises:
+
+### Coding: Classes and Objects
 
 Create a class 'Car' together that represents the properties and methods of a car.
 
@@ -13,7 +18,7 @@ Create a class 'Car' together that represents the properties and methods of a ca
 * Step 5: Create a second object of the class 'Car', accelerate it, and display the speed.
 * If you have already completed this task earlier, you may work on the bonus task on the next page.
 
-## Bonus
+### Bonus
 
 If you like, also work on this optional bonus task.
 
