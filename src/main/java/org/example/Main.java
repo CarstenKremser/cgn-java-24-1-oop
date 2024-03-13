@@ -13,6 +13,12 @@ public class Main {
         car2.accelerate();
         System.out.println("current speed of car2: " + car2.speed);
 
-        System.out.println("Hello world!");
+
+        Person carsten = new Person("Carsten", 56, 'm');
+        carsten.introduce();
+
+        Person svenja = new Person("Svenja", 51, 'w');
+        svenja.introduce();
+
     }
 }
